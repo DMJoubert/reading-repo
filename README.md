@@ -11,3 +11,8 @@ https://commitlogs.com/2017/01/14/serialize-deserialize-json-with-json4s-in-scal
 ## Implementations
 ### Boolean Logic
 https://medium.com/swlh/boolean-logic-using-the-scala-compiler-41d83e6891ec
+## Monads
+### Comonads
+http://justinhj.github.io/2019/06/20/comonads-for-life.html
+## Fun
+https://medium.com/commitlog/a-brief-totally-accurate-history-of-programming-languages-d2e2b09553f8
