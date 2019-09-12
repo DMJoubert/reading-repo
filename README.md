@@ -1,6 +1,8 @@
 # reading-repo
 This repo contains links to articles discussing useful concepts that I've picked up on throughout my adventures becoming a developer.
 
+https://bitbucket.org/blog/get-git-guru-gold-with-bitbuckets-glorious-git-guides - Git tutorial
+
 ## Syntax
 https://underscore.io/blog/posts/2016/12/05/type-lambdas.html - Type lambdas
 
